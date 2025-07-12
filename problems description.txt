@@ -1,0 +1,26 @@
+1.InputOutput 
+in this code i have dynamically given inputs via Scanner command and displayed the answer
+
+2.InputOutput2
+in this code i have fixed the input (price) then performed multiplication and displayed the answer
+
+3.allDatatypes
+in this code i have used all the datatypes (int, String, float, double) for a collage scholarship application 
+i ask the student the enter his/her name (string) ,12th marks (int) and compute the average (float), then assign a grade for them 
+based on the grade he/she will get the respective scholarship
+
+4.allOperators
+in this code i have used all the logical and arithmetic operations
+i collect student details (int and string) and calculates attendance percentage (float)
+It checks eligibility for scholarship based on attendance and valid reasons using String and conditional logic.
+
+5.CollegeApplication
+in this code i have used all the loop and conditional statements
+i handle college admission by collecting student details like name, age, and marks.
+It checks age and mark eligibility, then assigns or allows selection of a department based on merit.
+Students get admitted to suitable departments, and the loop continues for multiple applicants.
+
+6.AccessModifiersDemo
+in this code demonstrate all four access modifiers: public, private, protected, and default.
+It defines variables and methods with different access levels inside a class and shows how they can be accessed.
+Private members are accessed within the class using a public method.
